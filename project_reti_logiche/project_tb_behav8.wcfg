@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="project_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="project_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="250000000fs"></ZoomStartTime>
+      <ZoomEndTime time="2333408697fs"></ZoomEndTime>
+      <Cursor1Time time="885251000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="145"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="120" />
+   <wave_markers>
+      <marker time="19865048338000" label="" />
+      <marker time="0" label="" />
+   </wave_markers>
+   <wvobject fp_name="/project_tb/tb_done" type="logic">
+      <obj_property name="ElementShortName">tb_done</obj_property>
+      <obj_property name="ObjectShortName">tb_done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/mem_address" type="array">
+      <obj_property name="ElementShortName">mem_address[15:0]</obj_property>
+      <obj_property name="ObjectShortName">mem_address[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/m_in_or_out_sel" type="logic">
+      <obj_property name="ElementShortName">m_in_or_out_sel</obj_property>
+      <obj_property name="ObjectShortName">m_in_or_out_sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/tb_rst" type="logic">
+      <obj_property name="ElementShortName">tb_rst</obj_property>
+      <obj_property name="ObjectShortName">tb_rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/tb_start" type="logic">
+      <obj_property name="ElementShortName">tb_start</obj_property>
+      <obj_property name="ObjectShortName">tb_start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/tb_clk" type="logic">
+      <obj_property name="ElementShortName">tb_clk</obj_property>
+      <obj_property name="ObjectShortName">tb_clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/mem_i_data" type="array">
+      <obj_property name="ElementShortName">mem_i_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">mem_i_data[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/mem_o_data" type="array">
+      <obj_property name="ElementShortName">mem_o_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">mem_o_data[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/mem_i_data" type="array">
+      <obj_property name="ElementShortName">mem_i_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">mem_i_data[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/mem_i_data" type="array">
+      <obj_property name="ElementShortName">mem_i_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">mem_i_data[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/mem_i_data" type="array">
+      <obj_property name="ElementShortName">mem_i_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">mem_i_data[7:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/m_in_or_out_sel" type="logic">
+      <obj_property name="ElementShortName">m_in_or_out_sel</obj_property>
+      <obj_property name="ObjectShortName">m_in_or_out_sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/enable_wire" type="logic">
+      <obj_property name="ElementShortName">enable_wire</obj_property>
+      <obj_property name="ObjectShortName">enable_wire</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/mem_we" type="logic">
+      <obj_property name="ElementShortName">mem_we</obj_property>
+      <obj_property name="ObjectShortName">mem_we</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/c_CLOCK_PERIOD" type="other">
+      <obj_property name="ElementShortName">c_CLOCK_PERIOD</obj_property>
+      <obj_property name="ObjectShortName">c_CLOCK_PERIOD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/inp_add" type="array">
+      <obj_property name="ElementShortName">inp_add[15:0]</obj_property>
+      <obj_property name="ObjectShortName">inp_add[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/uk00" type="array">
+      <obj_property name="ElementShortName">uk00[7:0]</obj_property>
+      <obj_property name="ObjectShortName">uk00[7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/m1_bit_sel" type="array">
+      <obj_property name="ElementShortName">m1_bit_sel[2:0]</obj_property>
+      <obj_property name="ObjectShortName">m1_bit_sel[2:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/r3_out" type="array">
+      <obj_property name="ElementShortName">r3_out[1:0]</obj_property>
+      <obj_property name="ObjectShortName">r3_out[1:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/r4_out" type="array">
+      <obj_property name="ElementShortName">r4_out[1:0]</obj_property>
+      <obj_property name="ObjectShortName">r4_out[1:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/r5_out" type="array">
+      <obj_property name="ElementShortName">r5_out[1:0]</obj_property>
+      <obj_property name="ObjectShortName">r5_out[1:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/r6_out" type="array">
+      <obj_property name="ElementShortName">r6_out[1:0]</obj_property>
+      <obj_property name="ObjectShortName">r6_out[1:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/m_reset_sel" type="logic">
+      <obj_property name="ElementShortName">m_reset_sel</obj_property>
+      <obj_property name="ObjectShortName">m_reset_sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/cur_state" type="other">
+      <obj_property name="ElementShortName">cur_state</obj_property>
+      <obj_property name="ObjectShortName">cur_state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/m1_out" type="logic">
+      <obj_property name="ElementShortName">m1_out</obj_property>
+      <obj_property name="ObjectShortName">m1_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/uk0" type="logic">
+      <obj_property name="ElementShortName">uk0</obj_property>
+      <obj_property name="ObjectShortName">uk0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/uk1" type="logic">
+      <obj_property name="ElementShortName">uk1</obj_property>
+      <obj_property name="ObjectShortName">uk1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/uk2" type="logic">
+      <obj_property name="ElementShortName">uk2</obj_property>
+      <obj_property name="ObjectShortName">uk2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/p1k" type="logic">
+      <obj_property name="ElementShortName">p1k</obj_property>
+      <obj_property name="ObjectShortName">p1k</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/p2k" type="logic">
+      <obj_property name="ElementShortName">p2k</obj_property>
+      <obj_property name="ObjectShortName">p2k</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/RAM[1000]" type="array">
+      <obj_property name="ElementShortName">[1000][7:0]</obj_property>
+      <obj_property name="ObjectShortName">[1000][7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/RAM[1001]" type="array">
+      <obj_property name="ElementShortName">[1001][7:0]</obj_property>
+      <obj_property name="ObjectShortName">[1001][7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/RAM[1002]" type="array">
+      <obj_property name="ElementShortName">[1002][7:0]</obj_property>
+      <obj_property name="ObjectShortName">[1002][7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/RAM[1003]" type="array">
+      <obj_property name="ElementShortName">[1003][7:0]</obj_property>
+      <obj_property name="ObjectShortName">[1003][7:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/tb_clk" type="logic">
+      <obj_property name="ElementShortName">tb_clk</obj_property>
+      <obj_property name="ObjectShortName">tb_clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/m_inp_add_sel" type="logic">
+      <obj_property name="ElementShortName">m_inp_add_sel</obj_property>
+      <obj_property name="ObjectShortName">m_inp_add_sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/m_inp_cont_out" type="array">
+      <obj_property name="ElementShortName">m_inp_cont_out[15:0]</obj_property>
+      <obj_property name="ObjectShortName">m_inp_cont_out[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/inp_add" type="array">
+      <obj_property name="ElementShortName">inp_add[15:0]</obj_property>
+      <obj_property name="ObjectShortName">inp_add[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/m_cont_inp_in" type="array">
+      <obj_property name="ElementShortName">m_cont_inp_in[15:0]</obj_property>
+      <obj_property name="ObjectShortName">m_cont_inp_in[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/m_cont_sel" type="logic">
+      <obj_property name="ElementShortName">m_cont_sel</obj_property>
+      <obj_property name="ObjectShortName">m_cont_sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/m_cont_out" type="array">
+      <obj_property name="ElementShortName">m_cont_out[2:0]</obj_property>
+      <obj_property name="ObjectShortName">m_cont_out[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/o_bit_count" type="array">
+      <obj_property name="ElementShortName">o_bit_count[2:0]</obj_property>
+      <obj_property name="ObjectShortName">o_bit_count[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/m_cont_in" type="array">
+      <obj_property name="ElementShortName">m_cont_in[2:0]</obj_property>
+      <obj_property name="ObjectShortName">m_cont_in[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/i_clk" type="logic">
+      <obj_property name="ElementShortName">i_clk</obj_property>
+      <obj_property name="ObjectShortName">i_clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/i_start" type="logic">
+      <obj_property name="ElementShortName">i_start</obj_property>
+      <obj_property name="ObjectShortName">i_start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/i_rst" type="logic">
+      <obj_property name="ElementShortName">i_rst</obj_property>
+      <obj_property name="ObjectShortName">i_rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/i_data" type="array">
+      <obj_property name="ElementShortName">i_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">i_data[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/o_address" type="array">
+      <obj_property name="ElementShortName">o_address[15:0]</obj_property>
+      <obj_property name="ObjectShortName">o_address[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/o_done" type="logic">
+      <obj_property name="ElementShortName">o_done</obj_property>
+      <obj_property name="ObjectShortName">o_done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/o_en" type="logic">
+      <obj_property name="ElementShortName">o_en</obj_property>
+      <obj_property name="ObjectShortName">o_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/o_we" type="logic">
+      <obj_property name="ElementShortName">o_we</obj_property>
+      <obj_property name="ObjectShortName">o_we</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/o_data" type="array">
+      <obj_property name="ElementShortName">o_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">o_data[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/r0_load" type="logic">
+      <obj_property name="ElementShortName">r0_load</obj_property>
+      <obj_property name="ObjectShortName">r0_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/r1_load" type="logic">
+      <obj_property name="ElementShortName">r1_load</obj_property>
+      <obj_property name="ObjectShortName">r1_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/r2_load" type="logic">
+      <obj_property name="ElementShortName">r2_load</obj_property>
+      <obj_property name="ObjectShortName">r2_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/r3_load" type="logic">
+      <obj_property name="ElementShortName">r3_load</obj_property>
+      <obj_property name="ObjectShortName">r3_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/r4_load" type="logic">
+      <obj_property name="ElementShortName">r4_load</obj_property>
+      <obj_property name="ObjectShortName">r4_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/r5_load" type="logic">
+      <obj_property name="ElementShortName">r5_load</obj_property>
+      <obj_property name="ObjectShortName">r5_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/r6_load" type="logic">
+      <obj_property name="ElementShortName">r6_load</obj_property>
+      <obj_property name="ObjectShortName">r6_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/r7_load" type="logic">
+      <obj_property name="ElementShortName">r7_load</obj_property>
+      <obj_property name="ObjectShortName">r7_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/next_state" type="other">
+      <obj_property name="ElementShortName">next_state</obj_property>
+      <obj_property name="ObjectShortName">next_state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/r8_load" type="logic">
+      <obj_property name="ElementShortName">r8_load</obj_property>
+      <obj_property name="ObjectShortName">r8_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/r11_load" type="logic">
+      <obj_property name="ElementShortName">r11_load</obj_property>
+      <obj_property name="ObjectShortName">r11_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/r12_load" type="logic">
+      <obj_property name="ElementShortName">r12_load</obj_property>
+      <obj_property name="ObjectShortName">r12_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/m_inp_add_sel" type="logic">
+      <obj_property name="ElementShortName">m_inp_add_sel</obj_property>
+      <obj_property name="ObjectShortName">m_inp_add_sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/m_outp_add_sel" type="logic">
+      <obj_property name="ElementShortName">m_outp_add_sel</obj_property>
+      <obj_property name="ObjectShortName">m_outp_add_sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/m_in_or_out_sel" type="logic">
+      <obj_property name="ElementShortName">m_in_or_out_sel</obj_property>
+      <obj_property name="ObjectShortName">m_in_or_out_sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/m_cont_sel" type="logic">
+      <obj_property name="ElementShortName">m_cont_sel</obj_property>
+      <obj_property name="ObjectShortName">m_cont_sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/m_reset_sel" type="logic">
+      <obj_property name="ElementShortName">m_reset_sel</obj_property>
+      <obj_property name="ObjectShortName">m_reset_sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/m1_bit_sel" type="array">
+      <obj_property name="ElementShortName">m1_bit_sel[2:0]</obj_property>
+      <obj_property name="ObjectShortName">m1_bit_sel[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/dp_o_address" type="array">
+      <obj_property name="ElementShortName">dp_o_address[15:0]</obj_property>
+      <obj_property name="ObjectShortName">dp_o_address[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/dp_o_bit_count" type="array">
+      <obj_property name="ElementShortName">dp_o_bit_count[2:0]</obj_property>
+      <obj_property name="ObjectShortName">dp_o_bit_count[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/dp_o_byte_total" type="array">
+      <obj_property name="ElementShortName">dp_o_byte_total[7:0]</obj_property>
+      <obj_property name="ObjectShortName">dp_o_byte_total[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/o_address" type="array">
+      <obj_property name="ElementShortName">o_address[15:0]</obj_property>
+      <obj_property name="ObjectShortName">o_address[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/o_data" type="array">
+      <obj_property name="ElementShortName">o_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">o_data[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/o_bit_count" type="array">
+      <obj_property name="ElementShortName">o_bit_count[2:0]</obj_property>
+      <obj_property name="ObjectShortName">o_bit_count[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/o_byte_total" type="array">
+      <obj_property name="ElementShortName">o_byte_total[7:0]</obj_property>
+      <obj_property name="ObjectShortName">o_byte_total[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/r0_load" type="logic">
+      <obj_property name="ElementShortName">r0_load</obj_property>
+      <obj_property name="ObjectShortName">r0_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/r1_load" type="logic">
+      <obj_property name="ElementShortName">r1_load</obj_property>
+      <obj_property name="ObjectShortName">r1_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/r2_load" type="logic">
+      <obj_property name="ElementShortName">r2_load</obj_property>
+      <obj_property name="ObjectShortName">r2_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/r3_load" type="logic">
+      <obj_property name="ElementShortName">r3_load</obj_property>
+      <obj_property name="ObjectShortName">r3_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/r4_load" type="logic">
+      <obj_property name="ElementShortName">r4_load</obj_property>
+      <obj_property name="ObjectShortName">r4_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/r5_load" type="logic">
+      <obj_property name="ElementShortName">r5_load</obj_property>
+      <obj_property name="ObjectShortName">r5_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/r6_load" type="logic">
+      <obj_property name="ElementShortName">r6_load</obj_property>
+      <obj_property name="ObjectShortName">r6_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/r7_load" type="logic">
+      <obj_property name="ElementShortName">r7_load</obj_property>
+      <obj_property name="ObjectShortName">r7_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/r8_load" type="logic">
+      <obj_property name="ElementShortName">r8_load</obj_property>
+      <obj_property name="ObjectShortName">r8_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/r11_load" type="logic">
+      <obj_property name="ElementShortName">r11_load</obj_property>
+      <obj_property name="ObjectShortName">r11_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/r12_load" type="logic">
+      <obj_property name="ElementShortName">r12_load</obj_property>
+      <obj_property name="ObjectShortName">r12_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/m_inp_add_sel" type="logic">
+      <obj_property name="ElementShortName">m_inp_add_sel</obj_property>
+      <obj_property name="ObjectShortName">m_inp_add_sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/m_outp_add_sel" type="logic">
+      <obj_property name="ElementShortName">m_outp_add_sel</obj_property>
+      <obj_property name="ObjectShortName">m_outp_add_sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/m_in_or_out_sel" type="logic">
+      <obj_property name="ElementShortName">m_in_or_out_sel</obj_property>
+      <obj_property name="ObjectShortName">m_in_or_out_sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/m_cont_sel" type="logic">
+      <obj_property name="ElementShortName">m_cont_sel</obj_property>
+      <obj_property name="ObjectShortName">m_cont_sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/m_reset_sel" type="logic">
+      <obj_property name="ElementShortName">m_reset_sel</obj_property>
+      <obj_property name="ObjectShortName">m_reset_sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/cur_state" type="other">
+      <obj_property name="ElementShortName">cur_state</obj_property>
+      <obj_property name="ObjectShortName">cur_state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/uk00" type="array">
+      <obj_property name="ElementShortName">uk00[7:0]</obj_property>
+      <obj_property name="ObjectShortName">uk00[7:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/uk0" type="logic">
+      <obj_property name="ElementShortName">uk0</obj_property>
+      <obj_property name="ObjectShortName">uk0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/uk1" type="logic">
+      <obj_property name="ElementShortName">uk1</obj_property>
+      <obj_property name="ObjectShortName">uk1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/uk2" type="logic">
+      <obj_property name="ElementShortName">uk2</obj_property>
+      <obj_property name="ObjectShortName">uk2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/yk" type="array">
+      <obj_property name="ElementShortName">yk[1:0]</obj_property>
+      <obj_property name="ObjectShortName">yk[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/p1k" type="logic">
+      <obj_property name="ElementShortName">p1k</obj_property>
+      <obj_property name="ObjectShortName">p1k</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/p2k" type="logic">
+      <obj_property name="ElementShortName">p2k</obj_property>
+      <obj_property name="ObjectShortName">p2k</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/r3_out" type="array">
+      <obj_property name="ElementShortName">r3_out[1:0]</obj_property>
+      <obj_property name="ObjectShortName">r3_out[1:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/r4_out" type="array">
+      <obj_property name="ElementShortName">r4_out[1:0]</obj_property>
+      <obj_property name="ObjectShortName">r4_out[1:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/r5_out" type="array">
+      <obj_property name="ElementShortName">r5_out[1:0]</obj_property>
+      <obj_property name="ObjectShortName">r5_out[1:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/r6_out" type="array">
+      <obj_property name="ElementShortName">r6_out[1:0]</obj_property>
+      <obj_property name="ObjectShortName">r6_out[1:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/o_bit_count" type="array">
+      <obj_property name="ElementShortName">o_bit_count[2:0]</obj_property>
+      <obj_property name="ObjectShortName">o_bit_count[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/m1_bit_sel" type="array">
+      <obj_property name="ElementShortName">m1_bit_sel[2:0]</obj_property>
+      <obj_property name="ObjectShortName">m1_bit_sel[2:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/m1_out" type="logic">
+      <obj_property name="ElementShortName">m1_out</obj_property>
+      <obj_property name="ObjectShortName">m1_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/tb_rst" type="logic">
+      <obj_property name="ElementShortName">tb_rst</obj_property>
+      <obj_property name="ObjectShortName">tb_rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/m_cont_out" type="array">
+      <obj_property name="ElementShortName">m_cont_out[2:0]</obj_property>
+      <obj_property name="ObjectShortName">m_cont_out[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/m_cont_in" type="array">
+      <obj_property name="ElementShortName">m_cont_in[2:0]</obj_property>
+      <obj_property name="ObjectShortName">m_cont_in[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/m_cont_inp_in" type="array">
+      <obj_property name="ElementShortName">m_cont_inp_in[15:0]</obj_property>
+      <obj_property name="ObjectShortName">m_cont_inp_in[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/m_cont_outp_in" type="array">
+      <obj_property name="ElementShortName">m_cont_outp_in[15:0]</obj_property>
+      <obj_property name="ObjectShortName">m_cont_outp_in[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/inp_add" type="array">
+      <obj_property name="ElementShortName">inp_add[15:0]</obj_property>
+      <obj_property name="ObjectShortName">inp_add[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/m_inp_cont_out" type="array">
+      <obj_property name="ElementShortName">m_inp_cont_out[15:0]</obj_property>
+      <obj_property name="ObjectShortName">m_inp_cont_out[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/m_outp_cont_out" type="array">
+      <obj_property name="ElementShortName">m_outp_cont_out[15:0]</obj_property>
+      <obj_property name="ObjectShortName">m_outp_cont_out[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/outp_add" type="array">
+      <obj_property name="ElementShortName">outp_add[15:0]</obj_property>
+      <obj_property name="ObjectShortName">outp_add[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/dp_o_byte_total" type="array">
+      <obj_property name="ElementShortName">dp_o_byte_total[7:0]</obj_property>
+      <obj_property name="ObjectShortName">dp_o_byte_total[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/dp_o_address" type="array">
+      <obj_property name="ElementShortName">dp_o_address[15:0]</obj_property>
+      <obj_property name="ObjectShortName">dp_o_address[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/DATAPATH0/dp_o_bit_count" type="array">
+      <obj_property name="ElementShortName">dp_o_bit_count[15:0]</obj_property>
+      <obj_property name="ObjectShortName">dp_o_bit_count[15:0]</obj_property>
+   </wvobject>
+</wave_config>
